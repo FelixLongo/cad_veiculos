@@ -1,0 +1,12 @@
+/vendor/
+/node_modules/
+/env
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.sql
+*.sqlite
+.DS_Store
+.idea/

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Veículos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Sistema de Cadastro de Veículos</h1>
+    <form action="processa.php" method="POST">
+        <label>Marca:</label>
+        <input type="text" name="marca" required>
+        <label>Modelo:</label>
+        <input type="text" name="modelo" required>
+        <label>Ano:</label>
+        <input type="number" name="ano" required>
+        <label>Placa:</label>
+        <input type="text" name="placa" required>
+        <button type="submit">Cadastrar</button>
+    </form>
+    <a href="listar.php">Ver veículos cadastrados</a>
+</body>
+</html>
