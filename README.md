@@ -19,4 +19,5 @@ Como configurar
 2. Configure as credenciais de acesso no ficheiro `conexao.php`.
 3. Coloque os ficheiros num servidor local (como XAMPP ou WampServer).
 4. Aceda através de `localhost/cad_veiculos/index.html`.
-5.
+
+5. trabalho desenvolvido por: Artur Carlos e Elma Rosa
